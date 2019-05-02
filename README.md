@@ -13,3 +13,8 @@ and do it again!
 4.27.19
 -woke to pivx notify from devs
 -exchange deposits halted for THC
+
+5.2.19
+-KMD almost ready
+-uploaded first time from cli to git woot
+-many connections for THC
